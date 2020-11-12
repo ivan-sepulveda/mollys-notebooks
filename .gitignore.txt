@@ -1,0 +1,6 @@
+.DS_Store
+
+./virtual_environment/*
+
+
+./virtual_environment/
